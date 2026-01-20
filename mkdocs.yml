@@ -1,0 +1,10 @@
+site_name: Proyecto de Alejandro Rodríguez Bernal 
+site_url: https://MrNegAura220.github.io/proyecto-mkdocs/
+theme:
+  name: material
+
+
+nav:
+  - Inicio: index.md
+
+
