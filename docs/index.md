@@ -1,17 +1,11 @@
-# Welcome to Alejandro Page
+# Bienvenido a mí página personal
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hola,soy **Alejandro** y esta es mi página personal creada con **Mkdocs y el tema Material**.
 
-## Commands
+Aquí podrás encontrar información sobre mí, mi formación, mis proyectos y cómo contactar conmigo.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Sobre mí
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Apasionado con la technoñogía y el desarrollo web
+- El mejor gymbro del mundo
+- Con ganas de sacarme el carnet ya 
