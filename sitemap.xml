@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://MrNegAura220.github.io/proyecto-mkdocs/</loc>
-         <lastmod>2026-01-22</lastmod>
+         <lastmod>2026-02-01</lastmod>
+    </url>
+    <url>
+         <loc>https://MrNegAura220.github.io/proyecto-mkdocs/contacto/</loc>
+         <lastmod>2026-02-01</lastmod>
     </url>
     <url>
          <loc>https://MrNegAura220.github.io/proyecto-mkdocs/formacion/</loc>
-         <lastmod>2026-01-22</lastmod>
+         <lastmod>2026-02-01</lastmod>
+    </url>
+    <url>
+         <loc>https://MrNegAura220.github.io/proyecto-mkdocs/proyectos/</loc>
+         <lastmod>2026-02-01</lastmod>
     </url>
 </urlset>
